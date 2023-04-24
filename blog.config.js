@@ -126,7 +126,7 @@ const BLOG = {
       artist: 'iwamizu',
       url: 'https://music.163.com/song/media/outer/url?id=1828201610.mp3',
       cover: 'http://p3.music.126.net/GlGk3rcG-oMrCd254E0RJw==/109951168538016302.jpg'
-    }
+    },
     {
       name: '好想大声说爱你',
       artist: 'BAAD',
