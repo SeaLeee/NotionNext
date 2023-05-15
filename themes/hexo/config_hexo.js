@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['世上只有一种英雄主义，就是认清生活的真相之后依然热爱生活','不要因为走得太远，忘了我们为什么出发'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['世上只有一种英雄主义，就是认清生活的真相之后依然热爱生活','不要因为走得太远，忘了我们为什么出发','有时候一点点的信念，可以走很长的路'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: false, // 首页是否显示分类大图标按钮
   HOME_NAV_BACKGROUND_IMG_FIXED: true, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
