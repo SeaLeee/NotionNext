@@ -126,18 +126,6 @@ const BLOG = {
       artist: 'iwamizu',
       url: 'https://music.163.com/song/media/outer/url?id=1828201610.mp3',
       cover: 'http://p3.music.126.net/GlGk3rcG-oMrCd254E0RJw==/109951168538016302.jpg'
-    },
-    {
-      name: '好想大声说爱你',
-      artist: 'BAAD',
-      url: 'http://music.163.com/song/media/outer/url?id=27495001.mp3',
-      cover: '//p2.music.126.net/zSM2pnIh5V28BwOFWeQtmA==/109951167033459843.jpg'
-    },
-    {
-      name: '微醺停摆',
-      artist: '07Kevin / 张程皓',
-      url: 'http://music.163.com/song/media/outer/url?id=2033922940.mp3',
-      cover: 'http://p2.music.126.net/eK-ZNVCnpAVCAjjAS8mNYQ==/109951168507347995.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
